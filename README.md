@@ -4,7 +4,7 @@ Receive questions from your audience, reply and get reward in TON
 
 Powered by TON smart contracts
 
-**Fully on-chain**
+## Works completely on-chain
 
 |Repo|Description|
 |----|-----------|
@@ -15,3 +15,5 @@ Powered by TON smart contracts
 Root contract: [Tonviwer](https://tonviewer.com/EQCJgNytND4K9ydIx3_kn0kBCi3BWWCyMZoIBsYvT8c5JngA)
 
 Telegram bot: [@AskoraBot](https://t.me/AskoraBot)
+
+![Screen 1](screen_1.png)

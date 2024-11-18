@@ -1,14 +1,17 @@
-# askora
-#Work in progress
+# Askora
 
 Receive questions from your audience, reply and get reward in TON
+
 Powered by TON smart contracts
-Fully on-chain
 
-Contracts: https://github.com/DenisKusakin/askora-contracts
+**Fully on-chain**
 
-Telegram WebApp: https://github.com/DenisKusakin/askora-twa
+|Repo|Description|
+|----|-----------|
+|https://github.com/DenisKusakin/askora-contracts|Smart Contracts|
+|https://github.com/DenisKusakin/askora-twa|Frontentd|
+|https://github.com/DenisKusakin/askora-backend|Backend. This module only provides notifications in tg and sponsored transactions|
 
-Backend: https://github.com/DenisKusakin/askora-backend
+Root contract: [Tonviwer](https://tonviewer.com/EQCJgNytND4K9ydIx3_kn0kBCi3BWWCyMZoIBsYvT8c5JngA)
 
-Telegram bot: @AskoraBot[https://t.me/AskoraBot]
+Telegram bot: [@AskoraBot](https://t.me/AskoraBot)

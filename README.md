@@ -16,4 +16,5 @@ Root contract: [Tonviwer](https://tonviewer.com/EQCJgNytND4K9ydIx3_kn0kBCi3BWWCy
 
 Telegram bot: [@AskoraBot](https://t.me/AskoraBot)
 
-![Screen 1](screen_1.png)
+<img src="screen_2.png" alt="drawing" height="400"/>
+<img src="screen_1.png" alt="drawing" height="400"/>

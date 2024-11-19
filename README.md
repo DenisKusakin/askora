@@ -22,5 +22,4 @@ Powered by TON smart contracts
 
 ## Screens
 
-<img src="screen_2.png" alt="drawing" height="400"/>
-<img src="screen_1.png" alt="drawing" height="400"/>
+<img src="screen_2.png" alt="drawing" height="300"/><img src="screen_1.png" alt="drawing" height="300"/>
